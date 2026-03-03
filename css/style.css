@@ -70,7 +70,7 @@ img {
 .w3layouts-top-strip {
     padding: 12px 0;
     /* border-top: 2px solid #91df1a; */
-    background-image: url("http://iwallpapers2.free.fr/images/Espace/Nebuleuse_du_fantome.jpg");
+    background-image: url("/images/Nebuleuse_du_fantome.jpg");
     background-size: cover;
 }
 .logo span {
